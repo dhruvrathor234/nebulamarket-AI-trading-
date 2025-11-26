@@ -1,0 +1,5 @@
+{
+  "name": "nebulamarket AI trading ",
+  "description": "An autonomous AI trading dashboard that simulates news-based trading on Gold (XAUUSD). It uses Gemini's search grounding to fetch real-time market news and analyzes sentiment to execute simulated trades.",
+  "requestFramePermissions": []
+}
